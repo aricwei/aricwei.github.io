@@ -1,2 +1,2 @@
 # aricwei.github.io
-Aric's Portfolio Website
+Welcome to Aric Wei's Portfolio Website
