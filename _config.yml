@@ -7,13 +7,13 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Aric Wei's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Aric Wei
+headline: Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -47,25 +47,15 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
+    - SolidWorks
+    - Creo / Pro/E
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
     - Siemens NX
     - Inventor (Autodesk)
     - CATIA (Dassault Systèmes)
   - category: Prototyping
     tools:
-    - SLA
-    - CNC
     - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
   - category: Design Standards / Practices
