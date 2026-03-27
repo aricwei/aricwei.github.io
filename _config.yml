@@ -69,10 +69,8 @@ skills:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
     - DFMEA / PFMEA 
     - Six Sigma methodologies
-    - Shainin Red-X
-  - category: Endurance
-    tools:
-    - Work without Food
+    - Shainin Red X
+
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/{8-digit key}
@@ -85,7 +83,7 @@ colors: # this is the basic theme
   border: "#ddd"
   link: "#4a76ee"
   highlight: "#0c0cf2"
-  background: "#f5fffd"
+  background: "#f7fffd"
   light_background: "#f3f5fb"
 
 # A few examples. 
