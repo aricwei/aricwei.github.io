@@ -58,7 +58,7 @@ skills:
     - Breadboarding for circuit testing
   - category: Design Standards / Practices
     tools:
-    - GD&T ASME Y14
+    - GD&T ASME Y14.5-2018
     - ISO fits and tolerances
     - Design Intent
   - category: Data Management
