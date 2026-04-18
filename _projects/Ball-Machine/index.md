@@ -28,7 +28,4 @@ Use this to have subsection if needed
 {% include image-gallery.html images="IMG-20260417-181133052-30percent.jpg" height="400" %}
 
 <br>
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-<br>
-*Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
 {% include youtube-video.html id="6mobO4Vh4Ao" autoplay= "false"%}
