@@ -1,18 +1,17 @@
 ---
 layout: post
-title: Project 1
-description:  Line 1.
-    Line 2.
+title: Ball Machine Screw Conveyor
+description:  I modeled a miniature screw conveyor in SolidWorks for a 10 mm ball machine. I made custom parts that were 3D printed on an Ender 3 Pro and sliced on Cura. I assembled the parts and made design modifications along the way for it to be functional in the end.
 skills: 
-  - Line
-  - Line
-  - Line
-  - Line 
-  - Line
-  - Line
-  - Line
+  - CAD Modeling
+  - SolidWorks
+  - DFM/DFA
+  - Rapid Prototyping 
+  - FDM 3D Printing
+  - Testing
+  - Problem Solving
 
-main-image: /project2.jpg
+main-image: /IMG_20260417_181133052_30%.jpg
 ---
 
 ---
