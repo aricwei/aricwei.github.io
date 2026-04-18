@@ -25,8 +25,8 @@ Use this to have subsection if needed
 
 ## Embedding images 
 ### Internal images
-{% include image-gallery.html images="IMG_20260417_181133052_30percent.jpg" height="400" %}
-{% include image-gallery.html images="IMG-20260417-181133052-30percent.jpg" height="400" %}
+{% include image-gallery.html images="Project 1/IMG_20260417_181133052_30percent.jpg" height="400" %}
+{% include image-gallery.html images="Project 1/IMG-20260417-181133052-30percent.jpg" height="400" %}
 
 ### Embed images
 {% include image-gallery.html images="project2.jpg" height="400" %} 
