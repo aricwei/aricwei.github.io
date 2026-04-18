@@ -19,7 +19,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Welcome to my website! I graduated from Drexel University with a Bachelor of Science in Mechanical Engineering and Mechanics. I love seeing how
   machines and mechanisms come together to make the world go round. My passion for engineering
   and technology comes from media, Legos, How It's Made (TV show), and everyday observations of devices in real life.
-   
+  <br>
   "Everything should be made as simple as possible, but not simpler" -Albert Einstein
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -70,7 +70,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/xnjlvdrg method="POST"
+formspree-key:   https://formspree.io/f/xnjlvdrg
 
 
 
