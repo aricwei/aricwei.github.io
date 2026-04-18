@@ -24,10 +24,10 @@ Use this to have subsection if needed
 
 
 ## Embedding images 
-### External images
+### Internal images
 {% include image-gallery.html images="IMG_20260417_181133052_30%.jpg" height="400" %}
 
-### Embeed images
+### Embed images
 {% include image-gallery.html images="project2.jpg" height="400" %} 
 place the images in project folder/images then update the file path.   
 
@@ -35,7 +35,7 @@ place the images in project folder/images then update the file path.
 ## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
-{% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
+{% include youtube-video.html id="6mobO4Vh4Ao" autoplay= "false"%}
 {% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
 
 you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
