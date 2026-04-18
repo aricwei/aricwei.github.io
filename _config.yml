@@ -14,7 +14,7 @@ title: Aric Wei's Portfolio # This is what shows up in the tab of the browser
 # Hero Section
 name: Aric Wei
 headline: Mechanical Engineer
-  "Everything should be made as simple as possible, but not simpler" -Albert Einstein
+  <br> "Everything should be made as simple as possible, but not simpler" -Albert Einstein
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Welcome to my website! I graduated from Drexel University with a Bachelor of Science in Mechanical Engineering and Mechanics. I love seeing how
   machines and mechanisms come together to make the world go round. My passion for engineering
