@@ -11,7 +11,7 @@ skills:
   - Testing
   - Problem Solving
 
-main-image: /IMG_20260417_181133052_30%.jpg
+main-image: /project1.png
 ---
 
 ---
