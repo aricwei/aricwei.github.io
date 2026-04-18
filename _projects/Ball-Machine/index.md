@@ -26,7 +26,6 @@ Use this to have subsection if needed
 {% include image-gallery.html images="IMG_20260417_181133052_30percent.jpg" height="400" %}
 {% include image-gallery.html images="IMG_20260417_181133052_30percent.jpg" %}
 {% include image-gallery.html images="IMG-20260417-181133052-30percent.jpg" height="400" %}
-{% include image-gallery.html images="IMG_20260417_181133052_30%.jpg" %}
 
 <br>
 {% include image-gallery.html images="project2.jpg" height="400" %} 
