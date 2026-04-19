@@ -15,8 +15,13 @@ main-image: /images/IMG_20260412_205049412_30percent.jpg
 ---
 
 ---
-# Header 1 
+# Design Problem 
 Used for the title (already generated automatically at the top)
+
+
+
+
+
 ## Header 2  
 Use this for the header of each section
 ### Header 3 
@@ -50,10 +55,15 @@ Use this to have subsection if needed
 
 
 
+# Future Design Improvements
+-I need to 3D print a spacer at the front of the trough. I noticed balls get caught between the front wall of the trough and the intitial screw blade.
 
-
-
-
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 071555.png" height="400" %}
+<br>
+-The output side of the trough CAD model needs the opening 2mm wider to lessen the probablity of balls getting stuck at the end of the travel. When I was doing the test run, I used cutters and pliers to manually snip and bend the flange of the opening to be wider.
+-I should shorten the front of the shaft at least 20 mm, so that the hub is not as close to the floor in the incline position.
+-I would like to add a small motor to eliminate the need to manually hand crank it.
+-The attachment of the motor may need a bevel gear to either fit it onto the front of the trough. Alternatively, the bevel gear would need its own gearbox and coupled to the input shaft of the screw conveyor.
 
 
 
