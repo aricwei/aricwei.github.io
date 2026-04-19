@@ -11,7 +11,7 @@ skills:
   - Testing
   - Problem Solving
 
-main-image: images/IMG_20260417_181133052_30percent.jpg
+main-image: IMG_20260412_205049412_30percent.jpg
 ---
 
 ---
