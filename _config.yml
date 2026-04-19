@@ -21,7 +21,8 @@ description: >- # dont remove this line. this will ignore all new lines until th
   and technology comes from media, Legos, How It's Made (TV show), and everyday observations of devices in real life.
   <br>
   <br> "Everything should be made as simple as possible, but not simpler." -Albert Einstein
-
+  <br>
+  <br> Note: The "Resume" and "Contact Me" button do not work at this time. You can email me any questions. Thank you!
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
