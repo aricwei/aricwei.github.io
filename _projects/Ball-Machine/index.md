@@ -28,7 +28,7 @@ Use this to have subsection if needed
 
 
 
-
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" %}
 
 
 
