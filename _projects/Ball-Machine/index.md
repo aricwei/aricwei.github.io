@@ -59,12 +59,12 @@ Use this to have subsection if needed
 -I need to 3D print a spacer at the front of the trough. I noticed balls get caught between the front wall of the trough and the intitial screw blade.
 
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 071555.png" height="400" %}
-<br>
--The output side of the trough CAD model needs the opening 2mm wider to lessen the probablity of balls getting stuck at the end of the travel. When I was doing the test run, I used cutters and pliers to manually snip and bend the flange of the opening to be wider.
--I should shorten the front of the shaft at least 20 mm, so that the hub is not as close to the floor in the incline position.
--I would like to add a small motor to eliminate the need to manually hand crank it.
--The attachment of the motor may need a bevel gear to either fit it onto the front of the trough. Alternatively, the bevel gear would need its own gearbox and coupled to the input shaft of the screw conveyor.
--I would like to add a return hopper with a gate check (using a micro switch or proximity sensor) programmed to an Arduino to regulate flow into the screw conveyor to prevent jams.
+
+<br>-The output side of the trough CAD model needs the opening 2mm wider to lessen the probablity of balls getting stuck at the end of the travel. When I was doing the test run, I used cutters and pliers to manually snip and bend the flange of the opening to be wider.
+<br>-I should shorten the front of the shaft at least 20 mm, so that the hub is not as close to the floor in the incline position.
+<br>-I would like to add a small motor to eliminate the need to manually hand crank it.
+<br>-The attachment of the motor may need a bevel gear to either fit it onto the front of the trough. Alternatively, the bevel gear would need its own gearbox and coupled to the input shaft of the screw conveyor.
+<br>-I would like to add a return hopper with a gate check (using a micro switch or proximity sensor) programmed to an Arduino to regulate flow into the screw conveyor to prevent jams.
 
 
 
