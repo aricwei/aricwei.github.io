@@ -64,7 +64,7 @@ Use this to have subsection if needed
 <br>-I should shorten the front of the shaft at least 20 mm, so that the hub is not as close to the floor in the incline position.
 <br>-I would like to add a small motor to eliminate the need to manually hand crank it.
 <br>-The attachment of the motor may need a bevel gear to either fit it onto the front of the trough. Alternatively, the bevel gear would need its own gearbox and coupled to the input shaft of the screw conveyor.
-<br>-I would like to add a return hopper with a gate check (using a micro switch or proximity sensor) programmed to an Arduino to regulate flow into the screw conveyor to prevent jams.
+<br>-I would like to add a hopper with a return feed and a gate check (using a micro switch or proximity sensor) programmed to an Arduino to regulate flow into the screw conveyor to prevent jams.
 
 
 
