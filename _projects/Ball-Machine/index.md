@@ -11,7 +11,7 @@ skills:
   - Testing
   - Problem Solving
 
-main-image: /IMG_20260417_181133052_30percent.jpg
+main-image: images/IMG_20260417_181133052_30percent.jpg
 ---
 
 ---
@@ -23,9 +23,9 @@ Use this for the header of each section
 Use this to have subsection if needed
 
 <br>
-{% include image-gallery.html images="IMG_20260417_181133052_30percent.jpg, IMG_20260417_181133052_30percent.jpg, IMG_20260417_181133052_30percent.jpg, IMG_20260417_181133052_30percent.jpg" height="300" %}
-{% include image-gallery.html images="IMG_20260417_181133052_30percent.jpg" %}
-{% include image-gallery.html images="IMG-20260417-181133052-30percent.jpg" height="400" %}
+{% include image-gallery.html images="images/IMG_20260417_181133052_30percent.jpg, images/IMG_20260417_181133052_30percent.jpg, images/IMG_20260417_181133052_30percent.jpg, images/IMG_20260417_181133052_30percent.jpg" height="300" %}
+{% include image-gallery.html images="images/IMG_20260417_181133052_30percent.jpg" %}
+{% include image-gallery.html images="images/IMG-20260417-181133052-30percent.jpg" height="400" %}
 
 <br>
 {% include youtube-video.html id="y1eAPTMESTk" autoplay= "false"%}
