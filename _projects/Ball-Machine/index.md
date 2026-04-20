@@ -56,7 +56,7 @@ Use this to have subsection if needed
 
 
 # Future Design Improvements
--I need to 3D print a spacer at the front of the trough. I noticed balls get caught between the front wall of the trough and the intitial screw blade.
+-I need to 3D print a spacer at the front of the trough. I noticed balls get caught between the front wall of the trough and the initial screw blade. Alternatively, I could adjust the CAD model to have the trough shorter to close the gap, but that would require reprinting it.
 
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 071555.png" height="400" %}
 
@@ -65,6 +65,6 @@ Use this to have subsection if needed
 <br>-I would like to add a small motor to eliminate the need to manually hand crank it.
 <br>-The attachment of the motor may need a bevel gear to either fit it onto the front of the trough. Alternatively, the bevel gear would need its own gearbox and coupled to the input shaft of the screw conveyor.
 <br>-I would like to add a hopper with a return feed and a gate check (using a micro switch or proximity sensor) programmed to an Arduino to regulate flow into the screw conveyor to prevent jams.
-
+<br>
 
 
