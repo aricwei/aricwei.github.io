@@ -22,6 +22,7 @@ I wanted to create a machine with moving elements and custom designed parts to p
 I used a Creality Ender 3 Pro that I built and upgraded with a BTT SKR Mini E3 V3.0 motherboard and a BLTouch sensor for bed level compensation. Calibration was a challenge for awhile, but I have it dialed to a high degree. Ensuring proper X and Y belt tension (not too much and not too little) and bed level height (Z-offset) have helped improve quality. What has really helped with the bed leveling issues was replacing the stock bed springs and print bed with silicone spacers and PEI print bed. The silicone is much stiffer and more stable but still has some give if the print head presses into the bed. The PEI print bed is a great surface that makes it easier to clean and remove finished parts compared to the stock bed. These are 2 very inexpensive upgrades (silicone spacers were $8 and the PEI bed was $13), but it makes the print process much less frustrating.
 
 # CAD Model
+I modeled the 3D CAD parts and assembly in SolidWorks for Makers.
 
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" height="600" %}
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 074106.png" height="300" %}
@@ -29,14 +30,16 @@ I used a Creality Ender 3 Pro that I built and upgraded with a BTT SKR Mini E3 V
 
 <br>
 # 3D Printing
+I used Ultimaker Cura for slicing the STL files imported from SolidWorks.
 
 {% include image-gallery.html images="/images/IMG_20260409_214928966_30percent.jpg, /images/IMG_20260410_113012547_30percent.jpg" height="400" %}
 
 {% include image-gallery.html images="/images/IMG_20260412_083254030_HDR_30percent.jpg" height="600" %}
 
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 074343.png" height="600" %}
-{% include image-gallery.html images="/images/IMG_20260412_175056965_HDR_30percent.jpg, /images/IMG_20260412_202720621_HDR_30percent.jpg" height="200" %}
-{% include image-gallery.html images="/images/IMG_20260412_205049412_30percent.jpg, /images/IMG_20260414_130711922_30percent.jpg" height="200" %}
+I had to arrange the screw shaft along the diagonal part of the 220 mm X 220 mm print bed to make it fit. If the part is much larger than the print bed, sometimes there is the option of adding a split in the model. But that requires a joint (like a dovetail) and/or adhesives to keep the part together which weakens the part structurally.
+{% include image-gallery.html images="/images/IMG_20260412_175056965_HDR_30percent.jpg, /images/IMG_20260412_202720621_HDR_30percent.jpg" height="400" %}
+{% include image-gallery.html images="/images/IMG_20260412_205049412_30percent.jpg, /images/IMG_20260414_130711922_30percent.jpg" height="400" %}
 
 {% include image-gallery.html images="/images/IMG_20260416_113210308_HDR_30percent.jpg" height="600" %}
 
