@@ -25,8 +25,8 @@ I used a Creality Ender 3 Pro that I built and upgraded with a BTT SKR Mini E3 V
 I modeled the 3D CAD parts and assembly in SolidWorks for Makers.
 
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" height="600" %}
-{% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 074106.png" height="300" %}
-
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 073246.png" height="300" %}
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 043630.png, /images/Screenshot 2026-04-17 074106.png" height="300" %}
 
 <br>
 # 3D Printing
