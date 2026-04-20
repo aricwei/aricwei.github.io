@@ -16,28 +16,12 @@ main-image: /images/IMG_20260412_205049412_30percent.jpg
 
 ---
 # Design Problem 
-Used for the title (already generated automatically at the top)
+I wanted to create a machine with moving elements and custom designed parts to practice CAD modeling as well as 3D printing. The assembly would also be a challenge in adjusting for tolerances between what is represented in the CAD model versus what is actually produced by the 3D printer.
 
-
-
-
-
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
-
-
-
-
-
-
+# 3D Printer
+I used a Creality Ender 3 Pro that I built and upgraded to a BTT SKR Mini E3 V3.0 motherboard and a BLTouch sensor for bed level compensation. Calibration was a challenge for awhile, but I have it dialed to a high degree. Ensuring proper X and Y belt tension (not too much and not too little) and bed level height (Z-offset) have helped improve quality. What has really helped with the bed leveling issues was replacing the stock bed springs and print bed with silicone spacers and PEI print bed. The silicone is much stiffer and more stable but still has some give if the print head presses into the bed. The PEI print bed is a great surface that makes it easier to clean and remove finished parts compared to the stock bed. These are 2 very inexpensive upgrades (silicone spacers were $8 and the PEI bed was $13), but it makes the print process much less frustrating.
 
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" %}
-
-
-
-
 
 
 <br>
