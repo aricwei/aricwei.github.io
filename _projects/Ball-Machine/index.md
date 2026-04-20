@@ -19,15 +19,29 @@ main-image: /images/IMG_20260412_205049412_30percent.jpg
 I wanted to create a machine with moving elements and custom designed parts to practice CAD modeling as well as 3D printing. The assembly would also be a challenge in adjusting for tolerances between what is represented in the CAD model versus what is actually produced by the 3D printer.
 
 # 3D Printer
-I used a Creality Ender 3 Pro that I built and upgraded to a BTT SKR Mini E3 V3.0 motherboard and a BLTouch sensor for bed level compensation. Calibration was a challenge for awhile, but I have it dialed to a high degree. Ensuring proper X and Y belt tension (not too much and not too little) and bed level height (Z-offset) have helped improve quality. What has really helped with the bed leveling issues was replacing the stock bed springs and print bed with silicone spacers and PEI print bed. The silicone is much stiffer and more stable but still has some give if the print head presses into the bed. The PEI print bed is a great surface that makes it easier to clean and remove finished parts compared to the stock bed. These are 2 very inexpensive upgrades (silicone spacers were $8 and the PEI bed was $13), but it makes the print process much less frustrating.
+I used a Creality Ender 3 Pro that I built and upgraded with a BTT SKR Mini E3 V3.0 motherboard and a BLTouch sensor for bed level compensation. Calibration was a challenge for awhile, but I have it dialed to a high degree. Ensuring proper X and Y belt tension (not too much and not too little) and bed level height (Z-offset) have helped improve quality. What has really helped with the bed leveling issues was replacing the stock bed springs and print bed with silicone spacers and PEI print bed. The silicone is much stiffer and more stable but still has some give if the print head presses into the bed. The PEI print bed is a great surface that makes it easier to clean and remove finished parts compared to the stock bed. These are 2 very inexpensive upgrades (silicone spacers were $8 and the PEI bed was $13), but it makes the print process much less frustrating.
 
-{% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" %}
+# CAD Model
+
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" height="400" %}
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 074106.png" height="400" %}
 
 
-<br>
+
+# 3D Printing
+
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 074343.png" height="400" %}
+
+
+
+
+# Full Assembly
+
+{% include image-gallery.html images="/images/IMG_20260409_214928966_30percent.jpg" %}
+
 {% include image-gallery.html images="/images/IMG_20260417_181133052_30percent.jpg, /images/IMG_20260417_181133052_30percent.jpg, /images/IMG_20260417_181133052_30percent.jpg, /images/IMG_20260417_181133052_30percent.jpg" height="300" %}
 {% include image-gallery.html images="/images/IMG_20260417_181133052_30percent.jpg" %}
-{% include image-gallery.html images="/images/IMG-20260417-181133052-30percent.jpg" height="400" %}
+
 
 <br>
 {% include youtube-video.html id="y1eAPTMESTk" autoplay= "false"%}
