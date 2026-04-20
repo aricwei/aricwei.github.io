@@ -23,21 +23,21 @@ I used a Creality Ender 3 Pro that I built and upgraded with a BTT SKR Mini E3 V
 
 # CAD Model
 
-{% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" height="400" %}
-{% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 074106.png" height="400" %}
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" height="600" %}
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 074106.png" height="200" %}
 
 
 
 # 3D Printing
 
-{% include image-gallery.html images="/images/Screenshot 2026-04-17 074343.png" height="400" %}
-
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 074343.png" height="600" %}
+{% include image-gallery.html images="/images/IMG_20260409_214928966_30percent.jpg, /images/IMG_20260410_113012547_30percent.jpg" height="100" %}
 
 
 
 # Full Assembly
 
-{% include image-gallery.html images="/images/IMG_20260409_214928966_30percent.jpg" %}
+
 
 {% include image-gallery.html images="/images/IMG_20260417_181133052_30percent.jpg, /images/IMG_20260417_181133052_30percent.jpg, /images/IMG_20260417_181133052_30percent.jpg, /images/IMG_20260417_181133052_30percent.jpg" height="300" %}
 {% include image-gallery.html images="/images/IMG_20260417_181133052_30percent.jpg" %}
