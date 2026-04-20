@@ -26,6 +26,7 @@ I modeled the 3D CAD parts and assembly in SolidWorks for Makers.
 
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" height="600" %}
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 073246.png" height="300" %}
+I adapted M4 X 16 socket head cap screws for the feet. I turned them upside and fitted into a ball and socket part for rotational adjustment. For height adjustment I used 2 nuts to adjust and tighten it to the base crossmembers.
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 043630.png, /images/Screenshot 2026-04-17 074106.png" height="300" %}
 
 <br>
