@@ -24,7 +24,7 @@ I used a Creality Ender 3 Pro that I built and upgraded with a BTT SKR Mini E3 V
 # CAD Model
 
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 043540.png" height="600" %}
-{% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 074106.png" height="200" %}
+{% include image-gallery.html images="/images/Screenshot 2026-04-17 072456.png, /images/Screenshot 2026-04-17 074106.png" height="300" %}
 
 
 
@@ -33,15 +33,19 @@ I used a Creality Ender 3 Pro that I built and upgraded with a BTT SKR Mini E3 V
 {% include image-gallery.html images="/images/Screenshot 2026-04-17 074343.png" height="600" %}
 {% include image-gallery.html images="/images/IMG_20260409_214928966_30percent.jpg, /images/IMG_20260410_113012547_30percent.jpg" height="100" %}
 
+{% include image-gallery.html images="IMG_20260412_083254030_HDR_30percent.jpg" %}
+{% include image-gallery.html images="IMG_20260412_175056965_HDR_30percent.jpg" %}
+{% include image-gallery.html images="IMG_20260412_202720621_HDR_30percent.jpg" %}
+{% include image-gallery.html images="IMG_20260412_205049412_30percent.jpg" %}
+{% include image-gallery.html images="IMG_20260414_130711922_30percent.jpg" %}
+{% include image-gallery.html images="IMG_20260416_113210308_HDR_30percent.jpg" %}
 
-IMG_20260412_083254030_HDR_30percent.jpg
-IMG_20260412_175056965_HDR_30percent.jpg
-IMG_20260412_202720621_HDR_30percent.jpg
-IMG_20260412_205049412_30percent.jpg
-IMG_20260414_130711922_30percent.jpg
-IMG_20260416_113210308_HDR_30percent.jpg
+{% include youtube-video.html id="y1eAPTMESTk" autoplay= "false"%}
+{% include youtube-video.html id="On4fK84VsZQ" autoplay= "false"%}
+{% include youtube-video.html id="Y_Ba7DdIp_M" autoplay= "false"%}
+{% include youtube-video.html id="jo282rZWr0A" autoplay= "false"%}
 
-
+<br>
 # Full Assembly
 
 
@@ -49,21 +53,14 @@ IMG_20260416_113210308_HDR_30percent.jpg
 
 {% include image-gallery.html images="/images/IMG_20260417_100325737_30percent.jpg" %}
 
-
 {% include image-gallery.html images="/images/IMG_20260417_091202726_HDR_30percent.jpg, /images/IMG_20260417_181133052_30percent.jpg, /images/IMG_20260417_181143822_30percent.jpg, /images/IMG_20260417_181630820_30percent.jpg" height="300" %}
-{% include image-gallery.html images="/images/IMG_20260417_181133052_30percent.jpg" %}
-
 
 <br>
-{% include youtube-video.html id="y1eAPTMESTk" autoplay= "false"%}
-{% include youtube-video.html id="On4fK84VsZQ" autoplay= "false"%}
-{% include youtube-video.html id="Y_Ba7DdIp_M" autoplay= "false"%}
-{% include youtube-video.html id="jo282rZWr0A" autoplay= "false"%}
 {% include youtube-video.html id="6mobO4Vh4Ao" autoplay= "false"%}
 {% include youtube-video.html id="fLjb5T3nCEM" autoplay= "false"%}
 
 
-
+<br>
 # Future Design Improvements
 -I need to 3D print a spacer at the front of the trough. I noticed balls get caught between the front wall of the trough and the initial screw blade. Alternatively, I could adjust the CAD model to have the trough shorter to close the gap, but that would require reprinting it.
 
